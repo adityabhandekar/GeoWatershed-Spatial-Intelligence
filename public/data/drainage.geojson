@@ -1,0 +1,39 @@
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Main Drainage",
+        "order": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [75.68, 19.37],
+          [75.70, 19.34],
+          [75.73, 19.32],
+          [75.75, 19.29],
+          [75.77, 19.26]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Secondary Drainage",
+        "order": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [75.80, 19.35],
+          [75.77, 19.34],
+          [75.74, 19.32],
+          [75.73, 19.32]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Check Dam 01",
+        "assetType": "Check dam",
+        "condition": "Good",
+        "description": "Sample water harvesting structure for interface testing."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.84,
+          19.045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soil Observation 02",
+        "assetType": "Soil observation",
+        "condition": "Needs review",
+        "description": "Sample field observation point. Replace with verified field survey details."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.91,
+          19.035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vegetation Plot 03",
+        "assetType": "Vegetation plot",
+        "condition": "Good",
+        "description": "Sample vegetation monitoring location."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.87,
+          18.985
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Demo Watershed",
+        "type": "Watershed Boundary"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [75.65, 19.25],
+            [75.78, 19.25],
+            [75.82, 19.34],
+            [75.76, 19.40],
+            [75.66, 19.37],
+            [75.65, 19.25]
+          ]
+        ]
+      }
+    }
+  ]
+}

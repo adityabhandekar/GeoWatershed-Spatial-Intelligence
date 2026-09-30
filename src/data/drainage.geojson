@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Main drainage"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.8,
+            19.07
+          ],
+          [
+            75.83,
+            19.05
+          ],
+          [
+            75.85,
+            19.03
+          ],
+          [
+            75.88,
+            19.02
+          ],
+          [
+            75.92,
+            18.99
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North tributary"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.82,
+            19.08
+          ],
+          [
+            75.84,
+            19.06
+          ],
+          [
+            75.85,
+            19.03
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East tributary"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.94,
+            19.06
+          ],
+          [
+            75.91,
+            19.04
+          ],
+          [
+            75.88,
+            19.02
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South tributary"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.84,
+            18.98
+          ],
+          [
+            75.86,
+            19.0
+          ],
+          [
+            75.88,
+            19.02
+          ]
+        ]
+      }
+    }
+  ]
+}

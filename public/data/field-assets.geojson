@@ -1,0 +1,45 @@
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Check Dam",
+        "type": "Water Conservation",
+        "condition": "Good",
+        "description": "Demo check dam for map testing."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.72, 19.32]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soil Erosion Site",
+        "type": "Soil Conservation",
+        "condition": "Needs Inspection",
+        "description": "Demo location for soil erosion monitoring."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.76, 19.35]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vegetation Cover",
+        "type": "Land Cover",
+        "condition": "Good",
+        "description": "Demo vegetation monitoring location."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.69, 19.30]
+      }
+    }
+  ]
+}
